@@ -4,15 +4,13 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-**EidHachem/EidHachem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on some basic Javascript projects
-- 🌱 I’m currently learning front-end technologies
-- 👯 I’m looking to collaborate on Microverse projects
+- 🔭 I’m currently working on Microverse bootcam projects
+- 🌱 I’m currently learning various web development technologies
+- 👯 I’m looking to collaborate on web projects
 - 🤔 I’m looking for help with ways to improve my code
-- 💬 Ask me about my learning path
+- 💬 Ask me about my favourite learning sources
 - 📫 How to reach me: via email[eidhachem1@gmail.com]
 
 
