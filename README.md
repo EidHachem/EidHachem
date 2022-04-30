@@ -1,4 +1,4 @@
-[![MasterHead](https://thumbs.dreamstime.com/b/web-development-concept-web-site-coding-full-stack-programing-web-security-usability-platform-testing-web-developer-209521403.jpg)](https://rishavchanda.io)
+![MasterHead](https://thumbs.dreamstime.com/b/web-development-concept-web-site-coding-full-stack-programing-web-security-usability-platform-testing-web-developer-209521403.jpg)
 
 
 <h1 align="center">Hi 👋, I'm Eid Hachem</h1>
