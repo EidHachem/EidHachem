@@ -30,12 +30,12 @@
 ​<p><img align="left" 
 src="https://github-readme-stats.vercel.app/api/top-langs?username=eidhachem&show_icons=true&locale=en&layout=compact"
  alt="eidhachem" /></p>
-
+<br />
 <p>&nbsp;<img 
 align="center" 
 src="https://github-readme-stats.vercel.app/api?username=eidhachem&show_icons=true&locale=en"
  alt="eidhachem" /></p>
-
+<br />
 <p><img align="center" 
 src="https://github-readme-streak-stats.herokuapp.com/?user=eidhachem&"
  alt="eidhachem" /></p>
