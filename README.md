@@ -9,7 +9,7 @@
 <br />
 <div align="center">
 
-![commits.top ranking](https://iot.fbiego.com/api/v1/commits?user=EidHachem&country=lebanon&bg_color=333333&text_color=77fe89&border_color=89452e)</div>
+![commits.top ranking](https://iot.fbiego.com/api/v1/commits?user=EidHachem&country=lebanon&bg_color=f5f5dc&text_color=4169e1&border_color=6a5acd)</div>
 
 </p>
 <div size='20px'>My name is Eid Hachem. Thank You for taking the time to view my GitHub Profile :smile: 
