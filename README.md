@@ -1,12 +1,15 @@
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
 <p align='center'>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=EidHachem.EidHachem)
-![commits.top ranking](https://iot.fbiego.com/api/v1/commits?user=EidHachem&country=lebanon)
+<div align="center">
 
-<a href="https://commits.top/lebanon_public.html" target="_blank">
-<img src="https://iot.fbiego.com/api/v1/commits?user=EidHachem&country=lebanon" />
-</a>
+![visitors](https://visitor-badge.glitch.me/badge?page_id=EidHachem.EidHachem)
+
+</div>
+<br />
+<div align="center">
+
+![commits.top ranking](https://iot.fbiego.com/api/v1/commits?user=EidHachem&country=lebanon&bg_color=333333&text_color=77fe89&border_color=89452e)</div>
 
 </p>
 <div size='20px'>My name is Eid Hachem. Thank You for taking the time to view my GitHub Profile :smile: 
@@ -43,7 +46,7 @@
 
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="50px" height=50px> </h2>
-<div align="center>
+<div align="center">
   <a href = 'https://www.linkedin.com/in/https://www.linkedin.com/in/eid-hachem/'> <img width ='45px' align='center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>
   <a href = 'https://www.twitter.com/https://twitter.com/eidHachem1'> <img width ='45px' align='center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a>
   <a href = 'https://medium.com/@eidhachem1'> <img width ='45px' align='center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg"/></a>
