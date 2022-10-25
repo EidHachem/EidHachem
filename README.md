@@ -2,9 +2,7 @@
 <p align='center'>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=EidHachem.EidHachem)
-  <a href = "https://commits.top/lebanon.html" target="_blank">
-		<img src="https://ennsz4wdh58yl60.m.pipedream.net" alt="EidHachem" target="_blank"/>
-	</a>
+![commits.top ranking](https://iot.fbiego.com/api/v1/commits?user=EidHachem&country=lebanon)
 
 </p>
 <div size='20px'>My name is Eid Hachem. Thank You for taking the time to view my GitHub Profile :smile: 
