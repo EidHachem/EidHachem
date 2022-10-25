@@ -4,10 +4,10 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=EidHachem.EidHachem)
 
 </p>
-<div size='20px'> Hi! My name is Eid Hachem. Thank You for taking the time to view my GitHub Profile :smile: 
+<div size='20px'>My name is Eid Hachem. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 
-<h2> About Me <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/eatSleepCodeRepeat.gif" width = 100px height='100px'></h2>
+<h2> About Me <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/eatSleepCodeRepeat.gif" width = 50px height='50px'></h2>
 
 <img width="45%" height="250px" align="right"  alt="Github" src="https://media4.giphy.com/media/vhVqGkxDYxAaRbOWVp/giphy.gif?cid=790b761181de42c0e368e4486ca9805e891e6b934c832de6&rid=giphy.gif&ct=g" />
 
