@@ -5,7 +5,7 @@
 ![commits.top ranking](https://iot.fbiego.com/api/v1/commits?user=EidHachem&country=lebanon)
 
 <a href="https://commits.top/lebanon_public.html" target="_blank">
-<img src="https://img.shields.io/static/v1?label=commits.top_rank&message=11&color=brightgreen" />
+<img src="https://iot.fbiego.com/api/v1/commits?user=EidHachem&country=lebanon" />
 </a>
 
 </p>
