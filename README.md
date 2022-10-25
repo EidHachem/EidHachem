@@ -9,9 +9,7 @@
 
 <h2> About Me <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/eatSleepCodeRepeat.gif" width = 100px height='100px'></h2>
 
-<iframe align="right" src="https://giphy.com/embed/vhVqGkxDYxAaRbOWVp" width="480" height="334" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/BoschRexrothGlobal-boschrexroth-ctrlx-ctrlxautomation-vhVqGkxDYxAaRbOWVp"></a></p>
-<!-- <img width="45%" height="250px" align="right"  alt="Github" src="https://github.com/rahulbanerjee26/githubProfileReadmeGenerator/blob/main/banners/banner7.png" /> -->
-
+<img width="45%" height="250px" align="right"  alt="Github" src="https://media4.giphy.com/media/vhVqGkxDYxAaRbOWVp/giphy.gif?cid=790b761181de42c0e368e4486ca9805e891e6b934c832de6&rid=giphy.gif&ct=g" />
 
 
 - 🔭 I’m currently working on An API that holds all data related to friends series 'cast, seasons, episodes, quotes, fun-facts...'
