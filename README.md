@@ -9,7 +9,7 @@
 
 <h2> About Me <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/eatSleepCodeRepeat.gif" width = 100px height='100px'></h2>
 
-<img width="45%" height="250px" align="right" style="object-fit:contain" alt="Github" src="https://github.com/rahulbanerjee26/githubProfileReadmeGenerator/blob/main/banners/banner7.png" />
+<img width="45%" height="250px" align="right" style="object-fit:fill" object-fit="fill" alt="Github" src="https://github.com/rahulbanerjee26/githubProfileReadmeGenerator/blob/main/banners/banner7.png" />
 
 
 - 🔭 I’m currently working on An API that holds all data related to friends series 'cast, seasons, episodes, quotes, fun-facts...'
