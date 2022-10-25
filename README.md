@@ -4,6 +4,10 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=EidHachem.EidHachem)
 ![commits.top ranking](https://iot.fbiego.com/api/v1/commits?user=EidHachem&country=lebanon)
 
+<a href="https://commits.top/lebanon_public.html" target="_blank">
+<img src="https://img.shields.io/static/v1?label=commits.top_rank&message=11&color=brightgreen" />
+</a>
+
 </p>
 <div size='20px'>My name is Eid Hachem. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
