@@ -19,7 +19,7 @@
   <h2> About Me <img src = "https://media2.giphy.com/media/l1gYcLBSdL7PoDsizo/200.webp?cid=ecf05e47qvd6a2o6xsqqgi4pjlaofcy1nvdjtl05h1khuwgv&rid=200.webp&ct=g" width = '40px' height='40px' style="border-radius:15px" border-radius='15px' ></h2>
 </div>
 
-<img width="45%" align="right"  alt="Github" src="https://media4.giphy.com/media/vhVqGkxDYxAaRbOWVp/giphy.gif?cid=790b761181de42c0e368e4486ca9805e891e6b934c832de6&rid=giphy.gif&ct=g" />
+<img width="45%" height="225px" align="right"  alt="Github" src="https://media4.giphy.com/media/vhVqGkxDYxAaRbOWVp/giphy.gif?cid=790b761181de42c0e368e4486ca9805e891e6b934c832de6&rid=giphy.gif&ct=g" />
 
 
 - 🔭 I’m currently working on An API that holds all data related to friends series 'cast, seasons, episodes, quotes, fun-facts...'
