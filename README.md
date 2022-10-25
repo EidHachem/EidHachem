@@ -9,7 +9,7 @@
 
 <h2> About Me <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/eatSleepCodeRepeat.gif" width = 100px height='100px'></h2>
 
-<img width="55%" height="250px" align="right" alt="Github" src="https://github.com/rahulbanerjee26/githubProfileReadmeGenerator/blob/main/banners/banner7.png" />
+<img width="45%" height="250px" align="right" style="object-fit:contain" alt="Github" src="https://github.com/rahulbanerjee26/githubProfileReadmeGenerator/blob/main/banners/banner7.png" />
 
 
 - 🔭 I’m currently working on An API that holds all data related to friends series 'cast, seasons, episodes, quotes, fun-facts...'
@@ -22,29 +22,29 @@
 
 <h2> Skills <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </h2>
 <div align="center">
-  <a href= https://github.com/EidHachem?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='45px' height='45px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
-  <a href= https://github.com/EidHachem?tab=repositories&q=&type=&language=javascript&sort= > <img width ='45px' height='45px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
-  <a href= https://github.com/EidHachem?tab=repositories&q=&type=&language=html&sort= > <img width ='45px' height='45px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
-  <a href= https://github.com/EidHachem?tab=repositories&q=&type=&language=css&sort= > <img width ='45px' height='45px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
-  <a href= https://github.com/EidHachem?tab=repositories&q=&type=&language=redux&sort= > <img width ='45px' height='45px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/redux.svg'> </a>
-  <a href= https://github.com/EidHachem?tab=repositories&q=&type=&language=typescript&sort= > <img width ='45px' height='45px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/typescript.svg'> </a>
-  <a href= https://github.com/EidHachem?tab=repositories&q=&type=&language=sass&sort= > <img width ='45px' height='45px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sass.svg'> </a>
-  <a href= https://github.com/EidHachem?tab=repositories&q=&type=&language=tailwind&sort= > <img width ='45px' height='45px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/tailwind.svg'> </a>
-  <a href= https://github.com/EidHachem?tab=repositories&q=&type=&language=bootstrap&sort= > <img width ='45px' height='45px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/bootstrap.svg'> </a>
-  <a href= https://github.com/EidHachem?tab=repositories&q=&type=&language=postgresql&sort= > <img width ='45px' height='45px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/postgresql.svg'> </a>
-  <a href= https://github.com/EidHachem?tab=repositories&q=&type=&language=ruby&sort= > <img width ='45px' height='45px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/ruby.svg'> </a>
-  <a href= https://github.com/EidHachem?tab=repositories&q=&type=&language=rails&sort= > <img width ='45px' height='45px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/rails.svg'> </a>
-  <a href= https://github.com/EidHachem?tab=repositories&q=&type=&language=firebase&sort= > <img width ='45px' height='45px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/firebase.svg'> </a>
+  <a href= https://github.com/EidHachem?tab=repositories&q=&type=&language=reactjs&sort= > <img width='45px' height='45px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
+  <a href= https://github.com/EidHachem?tab=repositories&q=&type=&language=javascript&sort= > <img width='45px' height='45px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
+  <a href= https://github.com/EidHachem?tab=repositories&q=&type=&language=html&sort= > <img width='45px' height='45px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
+  <a href= https://github.com/EidHachem?tab=repositories&q=&type=&language=css&sort= > <img width='45px' height='45px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
+  <a href= https://github.com/EidHachem?tab=repositories&q=&type=&language=redux&sort= > <img width='45px' height='45px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/redux.svg'> </a>
+  <a href= https://github.com/EidHachem?tab=repositories&q=&type=&language=typescript&sort= > <img width='45px' height='45px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/typescript.svg'> </a>
+  <a href= https://github.com/EidHachem?tab=repositories&q=&type=&language=sass&sort= > <img width='45px' height='45px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sass.svg'> </a>
+  <a href= https://github.com/EidHachem?tab=repositories&q=&type=&language=tailwind&sort= > <img width='45px' height='45px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/tailwind.svg'> </a>
+  <a href= https://github.com/EidHachem?tab=repositories&q=&type=&language=bootstrap&sort= > <img width='45px' height='45px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/bootstrap.svg'> </a>
+  <a href= https://github.com/EidHachem?tab=repositories&q=&type=&language=postgresql&sort= > <img width='45px' height='45px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/postgresql.svg'> </a>
+  <a href= https://github.com/EidHachem?tab=repositories&q=&type=&language=ruby&sort= > <img width='45px' height='45px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/ruby.svg'> </a>
+  <a href= https://github.com/EidHachem?tab=repositories&q=&type=&language=rails&sort= > <img width='45px' height='45px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/rails.svg'> </a>
+  <a href= https://github.com/EidHachem?tab=repositories&q=&type=&language=firebase&sort= > <img width='45px' height='45px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/firebase.svg'> </a>
 </div>
 
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="50px" height=50px> </h2>
 <div align="center>
-  <a href = 'https://www.linkedin.com/in/https://www.linkedin.com/in/eid-hachem/'> <img width = '45px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>
-  <a href = 'https://www.twitter.com/https://twitter.com/eidHachem1'> <img width = '45px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a>
-  <a href = 'https://medium.com/@eidhachem1'> <img width = '45px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg"/></a>
-  <a href = 'https://www.eidhachem.me/'> <img width = '45px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a>
-  <a href = 'https://www.github.com/EidHachem'> <img width = '45px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
+  <a href = 'https://www.linkedin.com/in/https://www.linkedin.com/in/eid-hachem/'> <img width ='45px' align='center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>
+  <a href = 'https://www.twitter.com/https://twitter.com/eidHachem1'> <img width ='45px' align='center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a>
+  <a href = 'https://medium.com/@eidhachem1'> <img width ='45px' align='center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg"/></a>
+  <a href = 'https://www.eidhachem.me/'> <img width ='45px' align='center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a>
+  <a href = 'https://www.github.com/EidHachem'> <img width ='45px' align='center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
 </div>
 
 
