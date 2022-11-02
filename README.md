@@ -58,7 +58,7 @@
 </div>
 <div align="center">
   <a href = 'https://www.linkedin.com/in/eid-hachem/'> <img width ='45px' align='center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>
-  <a href = 'https://www.twitter.com/https://twitter.com/eidHachem1'> <img width ='45px' align='center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a>
+  <a href = 'https://twitter.com/eidHachem1'> <img width ='45px' align='center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a>
   <a href = 'https://medium.com/@eidhachem1'> <img width ='45px' align='center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg"/></a>
   <a href = 'https://www.eidhachem.me/'> <img width ='45px' align='center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a>
   <a href = 'https://www.github.com/EidHachem'> <img width ='45px' align='center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
